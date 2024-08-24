@@ -1,0 +1,10 @@
+.navbar{
+    background-color: azure;
+    color: blue;
+    display: flex;
+    justify-content: space-around;
+}
+.nav{
+    font-size: 30px;
+    font-family: monotype corsiva;
+}
